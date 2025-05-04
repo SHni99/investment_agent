@@ -78,7 +78,6 @@ logger.info("Starting Streamlit app")
 try:
     # Sidebar
     with st.sidebar:
-        st.image("https://img.icons8.com/color/96/000000/stock-market.png")
         st.markdown("## Settings")
         
         # Analysis type options
