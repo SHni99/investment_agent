@@ -1,0 +1,1 @@
+Error analyzing PLTR: 'NoneType' object is not subscriptable

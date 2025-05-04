@@ -1,0 +1,10 @@
+Please provide the data you'd like me to analyze. I need the data to give you an analysis of AAPL (Apple Inc.).  For example, this data could include:
+
+* **Financial statements:** Income statement, balance sheet, cash flow statement.
+* **Key metrics:** Revenue, earnings per share (EPS), price-to-earnings ratio (P/E), debt-to-equity ratio, return on equity (ROE).
+* **Stock price history:** Opening, closing, high, and low prices over a specific period.
+* **News and events:** Product releases, partnerships, legal issues, etc.
+* **Analyst ratings and price targets.**
+* **Industry trends and competitive landscape.**
+
+The more data you provide, the more comprehensive and insightful my analysis can be.
