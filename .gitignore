@@ -80,3 +80,4 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
+results/*_analysis_*.txt

@@ -9,7 +9,6 @@ import json
 
 st.set_page_config(
     page_title="Finance AI Agent",
-    page_icon="📈",
     layout="wide"
 )
 
